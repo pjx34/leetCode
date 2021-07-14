@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a0ff866-6be1-4eb4-b6ea-3adb1e32c05c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\leetCode\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vC70quOtWQ3VL9rQo7T2SqcmHS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.LeetCode0009">
+    <configuration name="LeetCode0002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode0002" />
+      <module name="leetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode0003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode0003" />
+      <module name="leetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode0004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode0004" />
+      <module name="leetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode0005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode0005" />
+      <module name="leetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode0009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode0009" />
+      <module name="leetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeetCode0009" />
+        <item itemvalue="Application.LeetCode0005" />
+        <item itemvalue="Application.LeetCode0004" />
+        <item itemvalue="Application.LeetCode0003" />
+        <item itemvalue="Application.LeetCode0002" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a0ff866-6be1-4eb4-b6ea-3adb1e32c05c" name="Default Changelist" comment="" />
+      <created>1626053996890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626053996890</updated>
+      <workItem from="1626054000661" duration="17500000" />
+      <workItem from="1626136912194" duration="18000" />
+      <workItem from="1626168141354" duration="3098000" />
+      <workItem from="1626224864825" duration="4341000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1626228879069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626228879069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="116" key="CommitChangelistDialog2" timestamp="1626228878346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1626228878346" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1626228957324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1626228957324" />
+    <state width="1877" height="314" key="GridCell.Tab.0.bottom" timestamp="1626228462239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1626228462239" />
+    <state width="1877" height="314" key="GridCell.Tab.0.center" timestamp="1626228462239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1626228462239" />
+    <state width="1877" height="314" key="GridCell.Tab.0.left" timestamp="1626228462239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1626228462239" />
+    <state width="1877" height="314" key="GridCell.Tab.0.right" timestamp="1626228462239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626228462239" />
+    <state width="1877" height="314" key="GridCell.Tab.1.bottom" timestamp="1626228462239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1626228462239" />
+    <state width="1877" height="314" key="GridCell.Tab.1.center" timestamp="1626228462239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1626228462239" />
+    <state width="1877" height="314" key="GridCell.Tab.1.left" timestamp="1626228462239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1626228462239" />
+    <state width="1877" height="314" key="GridCell.Tab.1.right" timestamp="1626228462239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626228462239" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1626224913464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626224913464" />
+    <state x="511" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1626072947294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="511" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1626072947294" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1626228635258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1626228635258" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode0004.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

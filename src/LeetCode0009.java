@@ -6,7 +6,7 @@ import java.util.Arrays;
 元素的顺序可以改变。你不需要考虑数组中超出新长度后面的元素。
 */
 public class LeetCode0009 {
-    //fori 循环
+    //fori循环 快慢指针
 //    public static int removeElement(int[] nums, int val) {
 //        if(nums.length==0)
 //            return 0;
@@ -21,7 +21,7 @@ public class LeetCode0009 {
 //        return slow;
 //    }
 
-    //while循环
+    //while循环 快慢指针
     public static int removeElement(int[] nums, int val) {
         if(nums.length==0)
             return 0;

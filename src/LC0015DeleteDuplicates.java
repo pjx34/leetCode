@@ -12,7 +12,7 @@
  */
 
 
-public class LeetCode0018 {
+public class LC0015DeleteDuplicates {
 
     public ListNode deleteDuplicates(ListNode head) {
         if (head==null)

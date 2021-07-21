@@ -1,6 +1,6 @@
 //实现 给你两个字符串 haystack 和 needle ，请你在 haystack 字符串中找出 needle 字符串出现的第一个位置（下标从 0 开始）。如果不存在，则返回  -1 。
 
-public class LeetCode0010 {
+public class LC0010StrStr {
     public static void main(String[] args) {
        String haystack = "hello", needle = "ll";
         int res = strStr(haystack, needle);

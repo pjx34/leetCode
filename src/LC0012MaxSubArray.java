@@ -3,7 +3,7 @@
 
 import java.util.Arrays;
 
-public class LeetCode0012 {
+public class LC0012MaxSubArray {
     public static void main(String[] args) {
         int[] ints = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
         int res = maxSubArray(ints);

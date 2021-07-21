@@ -1,4 +1,4 @@
-public class LeetCode0016 {
+public class LC0016MySqrt {
 
     //牛顿迭代法开方
     public static int mySqrt(int x) {

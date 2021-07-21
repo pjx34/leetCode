@@ -20,7 +20,7 @@ import java.util.Stack;
 //
 //        输入：s = "{[]}"
 //        输出：true
-public class LeetCode0006 {
+public class LC0006Valid {
     public static void main(String[] args) {
 
     }

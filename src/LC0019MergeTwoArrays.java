@@ -4,7 +4,7 @@
 
 import java.util.Arrays;
 
-public class LeetCode0019 {
+public class LC0019MergeTwoArrays {
 
 
 

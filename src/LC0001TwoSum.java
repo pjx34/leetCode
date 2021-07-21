@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //leetcode第一题,两数相加
-public class LeetCode0001 {
+public class LC0001TwoSum {
     public static void main(String[] args) {
         int[] nums = {2, 7, 11, 15};
         int[] res = twoSum(nums, 9);

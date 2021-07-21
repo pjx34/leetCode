@@ -1,3 +1,5 @@
+import utils.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -5,14 +7,13 @@ import java.util.List;
 public class LC0032BinaryTreePreorderTraversal {
 
 
-
-    public List<Integer> preorderTraversal(TreeNode root) {
+    public static List<Integer> preorderTraversal(TreeNode root) {
         List list = new ArrayList<TreeNode>();
         preOrder(root,list);
         return list;
     }
 
-    public void preOrder(TreeNode node,List res) {
+    public static void preOrder(TreeNode node,List res) {
         if (node==null)
             return;
         res.add(node.val);

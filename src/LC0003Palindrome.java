@@ -1,5 +1,5 @@
 //leetcode第三题 回文数
-public class LeetCode0003 {
+public class LC0003Palindrome {
     public static void main(String[] args) {
         isPalindrome(121);
     }

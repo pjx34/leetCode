@@ -1,5 +1,5 @@
 //leetCode第五题 最长公共前缀Lcp
-public class LeetCode0005 {
+public class LC0005Lcp {
 
     public static void main(String[] args) {
         String[] strs =new String[] {"flow","flower","flight"};

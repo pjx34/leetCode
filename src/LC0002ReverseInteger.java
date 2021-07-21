@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //leetCode第二题 整数反转
-public class LeetCode0002 {
+public class LC0002ReverseInteger {
     public static void main(String[] args) {
         int reverse = reverse(-123);
 

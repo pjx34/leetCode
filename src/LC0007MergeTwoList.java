@@ -7,7 +7,7 @@ class ListNode {
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 }
 
-public class LeetCode0007 {
+public class LC0007MergeTwoList {
 
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode head = new ListNode();

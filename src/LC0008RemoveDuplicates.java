@@ -1,6 +1,6 @@
 //删除有序数组的重复项
 
-public class LeetCode0008 {
+public class LC0008RemoveDuplicates {
 
     public int removeDuplicates(int[] nums) {
         if (nums == null||nums.length ==0) return 0;

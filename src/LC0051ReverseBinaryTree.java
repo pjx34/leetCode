@@ -1,3 +1,5 @@
+import utils.TreeNode;
+
 public class LC0051ReverseBinaryTree {
 
     public TreeNode invertTree(TreeNode root) {

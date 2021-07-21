@@ -1,6 +1,8 @@
 //给定一个二叉树，检查它是否是镜像对称的。
 
-public class LeetCode0022 {
+import utils.TreeNode;
+
+public class LC0022IsSymmetric {
 
     public boolean isSymmetric(TreeNode root) {
         if (root == null) return true;

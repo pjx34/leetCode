@@ -15,7 +15,7 @@ M             1000
 
 import java.util.HashMap;
 
-public class LeetCode0004 {
+public class LC0004RomanToInt {
     public static void main(String[] args) {
         int res = romanToInt("III");
         System.out.println(res);

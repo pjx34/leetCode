@@ -27,9 +27,16 @@ public class LC0141FlippingAnImage {
             ints[i] = arr[i];
         }
         int len = arr.length;
-        for (int i = 0; i < arr[i]; i++) {
+        for (int i = 0; i < arr.length; i++) {
             arr[i] = ints[len-1];
             len--;
+        }
+    }
+
+    public static void main(String[] args) {
+        int[] ints = {1,1,0};
+        for (int anInt : ints) {
+            System.out.println(anInt);
         }
     }
 }

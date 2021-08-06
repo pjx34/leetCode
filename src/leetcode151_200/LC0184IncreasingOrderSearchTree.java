@@ -27,4 +27,12 @@ public class LC0184IncreasingOrderSearchTree {
         midOrder(root.right,res);
     }
 
+    public static void main(String[] args) {
+        StringBuilder sb = new StringBuilder();
+        for (int i = 70; i <=250 ; i+=10) {
+            sb.append("QJGTGD==").append(i).append("||");
+        }
+        System.out.println(sb.toString());
+    }
+
 }

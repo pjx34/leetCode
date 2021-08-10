@@ -18,17 +18,29 @@ package leetcode151_200;
 //[2,5,3] = 10
 //[1,4,2,5,3] = 15
 public class LC0193SumOfAllOddLengthSubarrays {
-    public int sumOddLengthSubarrays(int[] arr) {
+    public static int sumOddLengthSubarrays(int[] arr) {
         int length = arr.length;
         int sum = 0;
-        for (int i = 0; i <= length ; i++) {
-            for (int j = 0; j < length ; j+=2) {
-                //j =1,3,5
-                int start = 0;
-                int end = start + j;
-
+        for (int j = 0; j <= length ; j++) {
+            //j =1,3,5 ¼ä¸ô
+            if (j%2==0)
+                continue;
+            for (int i = 0; i < length ; i++) {
+                int start = i;
+                int end = i+j;
+                if (end>length)
+                    break;
+                for (int k = start; k < end ; k++) {
+                        sum += arr[k];
+                }
             }
         }
+        return sum;
+    }
 
+    public static void main(String[] args) {
+        int[] ints = {10,11,12};
+        int i = sumOddLengthSubarrays(ints);
+        System.out.println(i);
     }
 }

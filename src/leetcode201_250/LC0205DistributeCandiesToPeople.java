@@ -15,9 +15,41 @@ package leetcode201_250;
 //第三次，ans[2] += 3，数组变为 [1,2,3,0]。
 //第四次，ans[3] += 1（因为此时只剩下 1 颗糖果），最终数组变为 [1,2,3,1]。
 public class LC0205DistributeCandiesToPeople {
-    public int[] distributeCandies(int candies, int num_people) {
+    public static int[] distributeCandies1(int candies, int num_people) {
         int givePreTime = 1;//每次需要给出的糖果个数
         int given = 0;//已经给出的糖果总数
+        int[] res = new int[num_people];
+        int index = 0;
+        for (int i = 1; i <= candies  ; i++) {
+            givePreTime = i;
+            index = index%num_people;
+            if (candies-given>i){
+                res[index] = res[index] +i;
+            }else{
+                res[index] = res[index] +candies-given;
+                break;
+            }
+            given +=  givePreTime;
+            index++;
+        }
+        return res;
+    }
 
+    public static int[] distributeCandies(int candies, int num_people) {
+        int[] res = new int[num_people];
+        int index = 0;
+        while (candies>0){
+            res[index%num_people] = res[index%num_people] + Math.min(candies,index+1);
+            candies -= Math.min(candies,index+1);
+            index++;
+        }
+        return res;
+    }
+
+    public static void main(String[] args) {
+        int[] ints = distributeCandies(10, 3);
+        for (int anInt : ints) {
+            System.out.println(anInt);
+        }
     }
 }
